@@ -22,3 +22,33 @@ To use Lumine IDE, follow these steps:
    
    ```sh
    python main.py
+
+## Usage
+
+After starting Lumine IDE, you can create a new project, open existing projects, and start coding. Below are some basic usage examples:
+Creating a New Project
+
+    Click File > New Project from the main menu.
+
+Opening an Existing Project
+
+    Click File > Open Project from the main menu.
+    Select the project file you want to open.
+    Click the Open button to load the project.
+
+Contributing
+
+If you would like to contribute to Lumine IDE, please follow these steps:
+
+    Fork this repository.
+    Add your feature or fix in a new branch (feature-branch, for example).
+    Commit your changes.
+    Create a pull request.
+
+For more information, please check our contribution guidelines.
+License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
+Contact
+
+If you have any questions or feedback, please send an email to blackmaniletisim123445@gmail.com.
