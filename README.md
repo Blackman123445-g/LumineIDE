@@ -20,7 +20,7 @@ To use Lumine IDE, follow these steps:
 3. **Install the required dependencies:**
 
    ```sh
-   pip install thinker re
+   pip install thinker
 
 4. **Install the required dependencies:**
    
