@@ -12,3 +12,8 @@ To use Lumine IDE, follow these steps:
    ```sh
    git clone https://github.com/Blackman123445-g/LumineIDE.git
    cd LumineIDE
+
+2. **Install the required dependencies:**
+
+   ```sh
+   pip install thinker os json re
