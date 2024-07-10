@@ -7,7 +7,7 @@ Lumine IDE is an open-source code editor designed for the Python programming lan
 
 To use Lumine IDE, follow these steps:
 
-1. **Install Python and Git**
+1. **Install Python 3x and Git**
 
 2. **Clone the repository:**
 
