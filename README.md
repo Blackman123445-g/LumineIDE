@@ -17,3 +17,8 @@ To use Lumine IDE, follow these steps:
 
    ```sh
    pip install thinker os json re
+
+3. **Install the required dependencies:**
+   
+   ```sh
+   python main.py
