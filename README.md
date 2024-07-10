@@ -50,6 +50,7 @@ For more information, please check our contribution guidelines.
 License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-Contact
+
+## Contact
 
 If you have any questions or feedback, please send an email to **blackmaniletisim123445@gmail.com**
