@@ -11,4 +11,4 @@ To use Lumine IDE, follow these steps:
 
    ```sh
    git clone https://github.com/Blackman123445-g/LumineIDE.git
-   cd lumine-ide
+   cd LumineIDE
