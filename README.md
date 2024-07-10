@@ -41,10 +41,10 @@ After starting Lumine IDE, you can create a new project, open existing projects,
 
 If you would like to contribute to Lumine IDE, please follow these steps:
 
-    Fork this repository.
-    Add your feature or fix in a new branch (feature-branch, for example).
-    Commit your changes.
-    Create a pull request.
+   1. **Fork this repository.**
+   2. **Add your feature or fix in a new branch (feature-branch, for example).**
+   3. **Commit your changes.**
+   4. **Create a pull request.**
 
 For more information, please check our contribution guidelines.
 License
