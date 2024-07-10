@@ -120,7 +120,7 @@ class CodeEditor:
     def new_file(self):
         self.text_area.delete(1.0, tk.END)
         self.filename = None
-        self.master.title("Lumina IDE - New File")
+        self.master.title("Lumine IDE - New File")
 
     def open_file(self):
         self.filename = filedialog.askopenfilename(defaultextension=".txt",
@@ -131,7 +131,7 @@ class CodeEditor:
             self.text_area.delete(1.0, tk.END)
             with open(self.filename, "r") as f:
                 self.text_area.insert(tk.END, f.read())
-            self.master.title(f"Lumina IDE - {os.path.basename(self.filename)}")
+            self.master.title(f"Lumine IDE - {os.path.basename(self.filename)}")
             self.highlight_syntax()
 
     def save_file(self):
