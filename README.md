@@ -13,7 +13,8 @@ To use Lumine IDE, follow these steps:
 
    ```sh
    git clone https://github.com/Blackman123445-g/LumineIDE.git
-```sh
+   
+   ```sh
    cd LumineIDE
 
 3. **Install the required dependencies:**
